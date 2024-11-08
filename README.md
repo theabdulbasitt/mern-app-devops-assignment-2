@@ -1,1 +1,1 @@
-# mern-app-assignment-2
+# mern-app-devops-assignment-2
